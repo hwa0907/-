@@ -1,5 +1,5 @@
-[index.html](index.html)
-[detail.html]9detail.html)
+[index.html] (index.html)
+[detail.html](detail.html)
 [css 폴더](css/)
 [images 폴더](images/)
 [js폴더](js/)
