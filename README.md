@@ -2,3 +2,5 @@
 [detail.html]9detail.html)
 [css 폴더](css/)
 [images 폴더](images/)
+[js폴더](js/)
+[data 폴더](data/)
