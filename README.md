@@ -1,4 +1,4 @@
-[index.html] (index.html)
+[index.html](index.html)
 [detail.html](detail.html)
 [css 폴더](css/)
 [images 폴더](images/)
